@@ -22,7 +22,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'discord', link: 'https://discord.gg/wMabjHY7' }
+      { icon: 'discord', link: 'https://discord.gg/xJXhMjHcGV' }
     ]
   }
 })
