@@ -7,8 +7,9 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
+			{ text: 'VNL.KZ', link: 'https://vnl.kz'},
       { text: 'Home', link: '/' },
-      { text: 'Guides', link: '/intro' }
+      { text: 'Guides', link: '/intro' },
     ],
 
     sidebar: [
