@@ -5,14 +5,11 @@ layout: home
 hero:
   name: "Vanilla KZ Guides"
   text: "all you need to learn about vnl kz"
-  tagline: My great project tagline
+  tagline: Work in progress
   actions:
     - theme: brand
       text: Intro
       link: /intro
-    - theme: alt
-      text: Binds & Aliases
-      link: /binds
 
 features:
   - title: Feature A
